@@ -13,7 +13,7 @@ numbersArray.pop();
 //console.log(numbersArray)
 
 
-let multiplyNumbers = numbersArray.map((element:number)=>element * 2);
+//let multiplyNumbers = numbersArray.map((element:number)=>element * 2);
 
 let multiplyNumbers
 
