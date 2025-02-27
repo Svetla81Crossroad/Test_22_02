@@ -16,7 +16,7 @@ console.log("welcomeMassageLegth", welcomeMassageLegth);
 
 //string interpolation
 let welcomeMassageDetails: string = "My welcome message length is ${welcomeMassageLegth}";
-//console.log(welcomeMassageDetails);
+console.log(welcomeMassageDetails);
 
 
 //numbers
@@ -32,7 +32,7 @@ let isEqual: boolean = firstNumber === secondNumber;
 let isGreaterOrEqual = firstNumber>= secondNumber;
 let isLowerOrEqual: boolean = firstNumber <= secondNumber;
 
-let isAnyNumberEqualTo:boolean = 6 ===firstNumber || 11 === secondNumber;
+Let isAnyNumberEqualTo: boolean = 6 ===firstNumber || 11 === secondNumber;
 
 console.log("isGreater", isGreater);
 
