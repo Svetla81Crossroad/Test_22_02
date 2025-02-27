@@ -32,9 +32,9 @@ let isEqual: boolean = firstNumber === secondNumber;
 let isGreaterOrEqual = firstNumber>= secondNumber;
 let isLowerOrEqual: boolean = firstNumber <= secondNumber;
 
-let isAnyNumberEqualTo: boolean = 6 ===firstNumber || 11 === secondNumber;
+let isAnyNumberEqualTo:boolean = 6 ===firstNumber || 11 === secondNumber;
 
-//console.log("isGreater", isGreater);
+console.log("isGreater", isGreater);
 
 
 
