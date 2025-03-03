@@ -22,3 +22,9 @@ function substractNumbers(firstNum:number=10, secondNum:number=5): number{
     return firstNum - secondNum;
 }
 console.log(substractNumbers(20));
+
+function add(a: number, b: number): number {
+    return a + b;
+}
+const resultCorrect = add(5, 10);
+console.log(resultCorrect);
