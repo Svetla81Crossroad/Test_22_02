@@ -36,5 +36,9 @@ console.log("multiplySpecialNumbers", multiplySpesialNumbers);
 
 let filterNumsArray = numbersArray.filter((element) => element > 2);
 
-console.log("filterNumsArray", filterNumsArray);
+//console.log("filterNumsArray", filterNumsArray);
+
+
+let colors: string[] = ["red", "green", "blue"];
+console.log(colors);
 
