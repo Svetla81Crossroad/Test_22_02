@@ -1,6 +1,6 @@
 // Arrays
 //type PersonInfoType = string | number;
-let numbersArray: number[] = [1, 2, 3, 4];
+//let numbersArray: number[] = [1, 2, 3, 4];
 let stringAndNumbersArr: (number | string)[] = [1, "Pesho", "Gosho", 2, "3"];
 
 let fruits: string[] = ["Apple", "Banana", "Pear", "Grape"];
