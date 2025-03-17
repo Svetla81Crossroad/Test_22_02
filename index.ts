@@ -1,5 +1,5 @@
 // let vs const
-let number: number = 5;
+//let number: number = 5;
 number = 10;
 
 const message: string = "Welcome";
